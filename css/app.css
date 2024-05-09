@@ -13701,6 +13701,7 @@
       left: 0;
       top: 0;
       border-radius: 50%;
+      object-fit: cover;
   }
   .gla_nimated_flower {
       -webkit-transition-delay: 0.3s;
